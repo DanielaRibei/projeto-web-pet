@@ -11,20 +11,20 @@ export const NavBar = () => {
             />
             <AppList>
                 <AppListItem>
-                    <Link href="/breed">Raça</Link>
+                    <Link href="/">Raça</Link>
                 </AppListItem>
                 <AppListItem>
-                    <Link href="/breed">Saúde </Link>
+                    <Link href="/">Saúde </Link>
                 </AppListItem>
                 <AppListItem>
-                    <Link href="/breed">Espécies</Link>
+                    <Link href="/">Espécies</Link>
                 </AppListItem>
                 <AppListItem>
-                    <Link href="/breed">Bem-Estar</Link>
+                    <Link href="/">Bem-Estar</Link>
                 </AppListItem>
             </AppList>
             <ImgUser
-                src="https://lh3.googleusercontent.com/ogw/ADea4I72_GoPRRdfnFXnugLFYe2ICIlSSjn3iVVIQKrF=s83-c-mo"
+                src="https://lh3.googleusercontent.com/ogw/AOh-ky3AyTen1PLek4df2qqDuurCmy6jlHjfWzXno_Qe=s32-c-mo"
                 alt="Logo Dog Curioso
 "
             />

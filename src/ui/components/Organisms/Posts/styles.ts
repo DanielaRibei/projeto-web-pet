@@ -11,6 +11,6 @@ export const Section = styled.section`
     box-sizing: inherit;
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around;
-
+    justify-content: flex-start;
+    gap: 1.89rem;
 `;
